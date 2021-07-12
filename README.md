@@ -1,5 +1,5 @@
 # Font-Base-Ligatures
-  base ligatures font without change your font
+  add ligatures font without change your font
 
 # How to install?
 ## 1. install font for your OS
