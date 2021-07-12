@@ -4,5 +4,5 @@
 # How to install?
 ## 1. install font for your OS
 ## 2. add font family before your font
-  Window: font-family: 'Fira Ligatures NL Retina'\n
+  Window: font-family: 'Fira Ligatures NL Retina'  
   MacOS: font-family: 'Fira Ligatures NL'
