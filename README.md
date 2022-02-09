@@ -11,7 +11,7 @@ I will use Consolas fonts and Windows operating systems in this example
 
 > After 
 
-<img src="./images/example-1.png" >
+<img src="./images/example-2.png" >
 
 # Usage 
 1. Install font for your OS
@@ -23,4 +23,4 @@ I will use Consolas fonts and Windows operating systems in this example
   MacOS: 
 > font-family: 'Fira Ligatures NL'
 
-<img src="./images/example-1.png" >
+<img src="./images/example-3.png" >
