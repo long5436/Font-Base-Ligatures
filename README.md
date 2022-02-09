@@ -9,7 +9,7 @@ I will use Consolas fonts and Windows operating systems in this example
 
 <img src="./images/example-1.png" >
 
-> After 
+> After use
 
 <img src="./images/example-2.png" >
 
