@@ -1,8 +1,26 @@
 # Font-Base-Ligatures
-  add ligatures font without change your font
+ Add ligatures with any font in vs code. Ligatures base used by Fira code
 
-# How to install?
-## 1. install font for your OS
-## 2. add font family before your font
-  Window: font-family: 'Fira Ligatures NL Retina'  
-  MacOS: font-family: 'Fira Ligatures NL'
+# Preview
+
+I will use Consolas fonts and Windows operating systems in this example
+
+> Before use
+
+<img src="./images/example-1.png" >
+
+> After 
+
+<img src="./images/example-1.png" >
+
+# Usage 
+1. Install font for your OS
+2. Add font family before your font
+
+  Windows, Linux: 
+> font-family: 'Fira Ligatures NL Retina'  
+
+  MacOS: 
+> font-family: 'Fira Ligatures NL'
+
+<img src="./images/example-1.png" >
